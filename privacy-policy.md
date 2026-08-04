@@ -1,3 +1,10 @@
+---
+layout: default
+title: Privacy Policy
+---
+
+# Privacy Policy
+
 1static const String _termsText = '''
 Умовы выкарыстання MovaAI.
 
