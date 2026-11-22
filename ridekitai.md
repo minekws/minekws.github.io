@@ -16,6 +16,7 @@ RideKit AI: Bike Parts identifies parts of bicycles, e-bikes, scooters and motor
 - **Scan history.** Scan results and thumbnails are stored on your device. You can clear them in Settings or by deleting the app's data.
 - **Technical data.** Service providers may receive information such as IP addresses and request timestamps while delivering the service, securing it and diagnosing errors.
 - **Advertising.** RideKit AI uses Yandex Mobile Ads in Belarus and Russia, and Unity Ads in other supported regions. Depending on the SDK, device settings and applicable consent, the providers may process advertising or other device identifiers, approximate location inferred from the IP address, device information, ad interactions and diagnostics. The app uses the device's region to choose an ad network. Photo contents and scan results are used for recognition and are not sent to the ad networks by the app.
+- **Unity Ads disclosures.** Unity Ads may also process user identifiers and purchase history. RideKit AI itself offers no purchases and does not receive payment details from users. Unity Ads may measure app usage time if its Acquire Optimization feature is enabled. See the [Unity Ads data disclosures](https://docs.unity.com/en-us/ads-unity/4.20.0/privacy/developer-consent/disclosures/google-data-safety) and [Yandex Mobile Ads data disclosures](https://ads.yandex.com/helpcenter/en/dev/android/app-privacy-android).
 
 ## Retention and security
 
@@ -46,6 +47,7 @@ RideKit AI: Bike Parts распознаёт по фотографиям дета
 - **История сканов.** Результаты и миниатюры хранятся на вашем устройстве. Их можно удалить в настройках RideKit AI или при очистке данных приложения.
 - **Технические данные.** Поставщики услуг могут получать IP-адрес и время запроса для работы сервиса, защиты и диагностики ошибок.
 - **Реклама.** В Беларуси и России приложение использует Яндекс Рекламу, в других поддерживаемых регионах — Unity Ads. В зависимости от SDK, настроек устройства и применимых согласий поставщики могут обрабатывать рекламные и другие идентификаторы устройства, приблизительное местоположение по IP, сведения об устройстве, взаимодействиях с рекламой и диагностике. Для выбора рекламной сети приложение определяет регион устройства. Содержимое фотографий и результаты сканов используются для распознавания и не отправляются приложением рекламным сетям.
+- **Дополнительные данные Unity Ads.** Unity Ads также может обрабатывать идентификаторы пользователей и историю покупок. В самом RideKit AI покупок нет, приложение не запрашивает платёжные данные. Unity Ads может измерять время использования приложения, если включена функция Acquire Optimization. Подробнее см. [сведения Unity Ads](https://docs.unity.com/en-us/ads-unity/4.20.0/privacy/developer-consent/disclosures/google-data-safety) и [сведения Яндекс Рекламы](https://ads.yandex.com/helpcenter/en/dev/android/app-privacy-android).
 
 ## Хранение и защита данных
 
